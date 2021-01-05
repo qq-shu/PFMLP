@@ -1,0 +1,6 @@
+The time spend in iter 0:   376.2642764
+The time spend in iter 1:   362.09859580000006
+The time spend in iter 2:   358.13603609999984
+The time spend in iter 3:   370.2136482000001
+The time spend in iter 4:   372.289573
+The time spend in iter 5:   364.1938445999999

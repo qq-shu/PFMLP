@@ -1,0 +1,11 @@
+The time spend in iter 0:   5.1699103
+The time spend in iter 1:   4.390825100000001
+The time spend in iter 2:   4.068402299999999
+The time spend in iter 3:   4.0601138
+The time spend in iter 4:   4.128471099999999
+The time spend in iter 5:   4.0610879
+The time spend in iter 6:   4.145206800000004
+The time spend in iter 7:   4.164155100000002
+The time spend in iter 8:   4.356819199999997
+The time spend in iter 9:   4.513000599999998
+totle_time: 43.057992199999994
